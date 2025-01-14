@@ -12,4 +12,6 @@
 <li><b>Interactive UI:</b> Highlight winning combinations and intuitive game reset functionality</li>.
 </ul>
 <br>
-<img src="">
+<img src="Screenshot.png">
+<br>
+<img src="Screenshot(1).png">
