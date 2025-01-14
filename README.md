@@ -3,7 +3,7 @@
 <p>A simple, interactive Tic Tac Toe game built using JavaScript, HTML, and CSS. Challenge a friend to a classic game of Xs and Os, or enjoy the smooth, responsive design on any device.<p>
 <br>
 
-<h3>Features<h3>
+<h3>Features</h3>
 <br>
 
 <ul>
