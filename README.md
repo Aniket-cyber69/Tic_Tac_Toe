@@ -11,3 +11,5 @@
 <li><b>Responsive Design:</b> Optimized for desktops, tablets, and mobile devices.</li>
 <li><b>Interactive UI:</b> Highlight winning combinations and intuitive game reset functionality</li>.
 </ul>
+<br>
+<img src="">
